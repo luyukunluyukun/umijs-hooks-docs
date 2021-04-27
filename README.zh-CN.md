@@ -1,4 +1,4 @@
-English | [简体中文](https://github.com/alibaba/hooks/blob/master/README.zh-CN.md)
+[English](https://github.com/alibaba/hooks/blob/master/README.md) | 简体中文
 
 # ahooks
 
@@ -6,31 +6,31 @@ React Hooks Library.
 
 [![NPM version][image-1]][1] [![NPM downloads][image-2]][2]
 
-## 📚 Documentation
+## 📚 文档
 
 - [English](https://ahooks.js.org/)
 - [中文](https://ahooks.js.org/zh-CN/)
 
-## ✨ Features
+## ✨ 特性
 
-- Easy to learn and use.
-- Contains a wealth of advanced Hooks that are refined from the app.
-- Contains a wealth of basic Hooks.
-- Written in TypeScript with predictable static types.
+- 易学易用
+- 包含大量提炼自应用的高级 Hooks。
+- 包含丰富的基础 Hooks。
+- 使用 TypeScript 构建，提供完整的类型定义文件。
 
-## 📦 Install
+## 📦 安装
 
 ```
 npm i ahooks --save
 ```
 
-## 🔨 Usage
+## 🔨 使用
 
-```typescript
+```
 import { useRequest } from 'ahooks';
 ```
 
-## Core Team
+## 开发团队
 
 <table>
   <tbody>
@@ -42,7 +42,7 @@ import { useRequest } from 'ahooks';
             src="https://img.alicdn.com/tfs/TB1Jd.tb79l0K4jSZFKXXXFjpXa-482-264.png"
           />
           <br>
-          <strong>ice</strong>
+          <strong>icejs</strong>
         </a>
       </td>
       <td align="center">
@@ -53,7 +53,7 @@ import { useRequest } from 'ahooks';
             src="https://img.alicdn.com/tfs/TB1fhqaLAT2gK0jSZFkXXcIQFXa-132-130.png"
           />
           <br>
-          <strong>umi</strong>
+          <strong>UmiJS</strong>
         </a>
       </td>
        <td align="center">
@@ -64,14 +64,14 @@ import { useRequest } from 'ahooks';
             src="https://gw.alicdn.com/tfs/TB13XKjLuL2gK0jSZFmXXc7iXXa-205-59.png"
           />
           <br>
-          <strong>Alisports</strong>
+          <strong>阿里体育</strong>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
 
-## 🤝 Contributing
+## 🤝 参与贡献
 
 ```
 $ git clone git@github.com:alibaba/hooks.git
@@ -80,13 +80,13 @@ $ npm run init
 $ npm start
 ```
 
-Open your browser and visit http://127.0.0.1:8001 , see more at Development.
+打开浏览器访问 http://127.0.0.1:8001
 
-We welcome all contributions, please read our [CONTRIBUTING.MD](https://github.com/alibaba/hooks/blob/master/CONTRIBUTING.MD) first, let's build a better hooks library together.
+我们欢迎所有人参与共建，请参考[CONTRIBUTING.MD](https://github.com/alibaba/hooks/blob/master/CONTRIBUTING.MD)
 
-## 👥 Discuss
+## 👥 交流讨论
 
-<img src="https://raw.githubusercontent.com/alibaba/hooks/master/dingtalk.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/umijs/hooks/master/dingtalk.jpg" width="300" />
 
 ## ✅ License
 
