@@ -1,6 +1,4 @@
 yarn.lock
-dist
-# /docs-dist
 es
 lib
 .docz
@@ -9,7 +7,6 @@ node_modules
 .idea
 .vscode
 coverage
-.doc
 .DS_Store
 .umi
 .umi-production
